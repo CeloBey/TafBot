@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "denemebotu",
+  "version": "0.0.1",
+  "main": "taf.js",
+  "scripts": {
+    "test": "node taf.js"
+  },
+  "author": "Taf",
+  "license": "ISC",
+  "description": ""
+}
